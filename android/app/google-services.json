@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308031839880",
+    "project_id": "datingapp-b60b9",
+    "storage_bucket": "datingapp-b60b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308031839880:android:894337b48b971f9125893d",
+        "android_client_info": {
+          "package_name": "com.example.love_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACmWaxfCuNYyq_p2a1jsn_WHJuQhho1MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
